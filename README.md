@@ -1,7 +1,7 @@
 # Super Bo Noise Web Port
 A web port of Super Bo Noise v1.1.1.1.1.1.1..1..1.1.1..1.1.1.1.1.1.1. to the Web Browser!
 
-Demo Site: https://www.autistici.org/burnedprojects/super_bo_noise/runner.html
+Demo Site: https://www.autistici.org/burnedprojects/SuperBoNoise/
 
 > [!NOTE]
 > No Source Code is available for this Web Port
